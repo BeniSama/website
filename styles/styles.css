@@ -1,0 +1,38 @@
+body{
+    
+    background-image: url(../pictures/milky-way-2695569_960_720.jpg)
+    padding 200x;
+    margin 200px;
+}
+
+hr{
+    /* background-color: white; */
+    border-color: lightgoldenrodyellow;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+/* img{
+    border-radius: 10%;
+} */
+
+.frosch{
+    border-radius: 10%
+}
+
+.alien{
+    
+    border-radius: 40em
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
